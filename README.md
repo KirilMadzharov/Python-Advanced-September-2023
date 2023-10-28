@@ -3,7 +3,7 @@
 
 The Python Advanced course is designed to enhance our Python language proficiency by delving into more intricate concepts commonly associated with the language. Throughout this course, I gained expertise in creating linear data structures, mastering algorithmic problem-solving skills, and handling various data structures like stacks, queues, tuples, sets, and matrices. Additionally, I exploreed working with files and directories while paying special attention to the functional programming paradigm. Topics covered include in-depth examinations of recursive functions, multi-argument functions, and the utilisation of the PyCharm development environment.
 
-In the repository "Programming-Basics-with-Python-February-2023" you will find the following folders and information:
+In the repository "Python-Advanced-September-2023" you will find the following folders and information:
 
 1. Lists as Stacks and Queues
 2. Tuples and Sets
