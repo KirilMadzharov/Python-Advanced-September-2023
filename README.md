@@ -1,7 +1,7 @@
 # Python-Advanced-September-2023
 
 
-During my Python Advanced course, I acquired a comprehensive understanding of various advanced programming concepts and techniques that are essential for professional software development. 
+The Python Advanced course is designed to enhance our Python language proficiency by delving into more intricate concepts commonly associated with the language. Throughout this course, I gained expertise in creating linear data structures, mastering algorithmic problem-solving skills, and handling various data structures like stacks, queues, tuples, sets, and matrices. Additionally, I exploreed working with files and directories while paying special attention to the functional programming paradigm. Topics covered include in-depth examinations of recursive functions, multi-argument functions, and the utilisation of the PyCharm development environment.
 
 Below is an overview of the topics covered in the course:
 
